@@ -1,0 +1,1 @@
+select * from {{source("Aircraft_Analytics", "flight_summary_data")}}

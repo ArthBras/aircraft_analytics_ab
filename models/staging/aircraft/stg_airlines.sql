@@ -1,0 +1,1 @@
+select * from {{source("Aircraft_Analytics", "airlines")}}
