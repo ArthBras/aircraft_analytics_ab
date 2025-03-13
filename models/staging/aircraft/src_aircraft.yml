@@ -9,3 +9,4 @@ sources:
       - name: airlines
       - name: airports
       - name: flight_summary_data
+      - name: individual_flights
